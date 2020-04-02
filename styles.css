@@ -1,7 +1,7 @@
 body{
   text-align: center;
   margin:0;
-  
+
 
 
 }
@@ -10,6 +10,7 @@ body{
   background-color: black;
   color: white;
 font-family: 'Courgette', cursive;
+padding-top: 30px;
 
 
 }
@@ -52,8 +53,8 @@ right:600px;
 .cloud3{
   height:100px;
   width:100px;
-position: absolute;
-right:300px;
+position: relative;
+left:600px;
 }
 
 .hand{
