@@ -1,7 +1,7 @@
 body{
   text-align: center;
   margin:0;
-  padding:0px;
+  
 
 
 }
@@ -10,9 +10,7 @@ body{
   background-color: black;
   color: white;
 font-family: 'Courgette', cursive;
-margin: 0;
-padding:50px 100px;
-padding-left: 40px;
+
 
 }
 .moon{
@@ -68,8 +66,7 @@ right:300px;
 }
 .mid{
   background-color: black;
-  padding-top: 30px;
- padding-left: 40px;
+
 }
 .adnanpic{
   margin: 35px auto;
@@ -242,5 +239,5 @@ hr{
 .bottom{
   background-color: black;
   height: 50px;
-  padding-left: 40px;
+
 }
