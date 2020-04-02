@@ -1,7 +1,8 @@
 body{
   text-align: center;
   margin:0;
-  padding:40px;
+  padding:0px;
+
 
 }
 
@@ -9,7 +10,8 @@ body{
   background-color: black;
   color: white;
 font-family: 'Courgette', cursive;
-margin: 0 auto;
+margin: 0;
+padding:50px 100px;
 
 }
 .moon{
@@ -65,7 +67,7 @@ right:300px;
 }
 .mid{
   background-color: black;
-
+  padding-top: 30px;
 }
 .adnanpic{
   margin: 35px auto;
@@ -201,7 +203,7 @@ hr{
 	cursor:pointer;
 	color:#505739;
 	font-family:Arial;
-	font-size:14px;
+	font-size:50px;
 	font-weight:bold;
 	padding:12px 16px;
 	text-decoration:none;
@@ -233,4 +235,9 @@ hr{
   width:70px;
   position:relative;
   left:300px;
+}
+
+.bottom{
+  background-color: black;
+  height: 50px;
 }
